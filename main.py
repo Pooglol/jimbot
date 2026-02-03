@@ -215,4 +215,4 @@ async def say(interaction: discord.Interaction, message: str, reply_to: str = No
     if target_msg: await target_msg.reply(message)
     else: await interaction.channel.send(message)
 
-bot.run('MTQ2NzQyODU3MzYyNjM3MjA5OA.GIEact.stlwUGgFgenHd1gm2vRhgxt6GuUC50f1UBKACk')
+bot.run('MTQ2NzQyODU3MzYyNjM3MjA5OA.GLkFhp.5h694-YRmFTAm1-mga3kdudl09dFcAM7NCOTGY')
